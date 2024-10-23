@@ -1,4 +1,4 @@
-name: real3dad
+name: real3d
 channels:
   - pytorch
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
